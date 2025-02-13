@@ -1,5 +1,5 @@
 # Working Repo für WMC im 6. Semester
 
-Name: Vorname Zuname  
+Name: Sami Rizvi
 Klasse: 6CAIF
 
