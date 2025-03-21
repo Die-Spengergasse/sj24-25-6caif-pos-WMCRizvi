@@ -46,7 +46,7 @@ namespace SPG_Fachtheorie.Aufgabe3.Controllers
         {
             try
             {
-                // Find the payment
+                // Find the payment sjdakd
                 var payment = _db.Payments
                     .Include(p => p.PaymentItems)
                     .FirstOrDefault(p => p.Id == id);
