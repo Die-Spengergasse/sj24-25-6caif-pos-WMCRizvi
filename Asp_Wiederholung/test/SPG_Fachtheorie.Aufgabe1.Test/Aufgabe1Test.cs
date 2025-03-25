@@ -22,7 +22,7 @@ namespace SPG_Fachtheorie.Aufgabe1.Test
             return db;
         }
 
-        // Creates an empty DB in Debug\net8.0\cash.db
+        // Creates an empty DB in Debug\net8.0\cash.dbss
         [Fact]
         public void CreateDatabaseTest()
         {
