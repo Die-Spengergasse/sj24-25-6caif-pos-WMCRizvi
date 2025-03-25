@@ -38,7 +38,7 @@ namespace SPG_Fachtheorie.Aufgabe1.Test
             db.Cashiers.Add(cashier);
             
             // ACT
-            db.SaveChanges();   // erst hier wird das INSERT INTO gesendet.
+            db.SaveChanges();   // erst hier wird das INSERT INTO gesendet.. 
 
             // ASSERT
             db.ChangeTracker.Clear();
